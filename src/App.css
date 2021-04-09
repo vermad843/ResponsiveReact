@@ -45,3 +45,21 @@
     justify-content: center;
     color : white;
 }
+
+
+.app__body__left__container {
+    margin-top : 20px; 
+    display:  flex; 
+}
+
+
+.app__body__left__container__input {
+   padding : 10px;
+   padding-right : 70px;
+   margin-right : 10px;
+}
+
+.app__body__left__container__button {
+   padding : 10px; 
+
+}

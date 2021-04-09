@@ -1,0 +1,47 @@
+
+.app {
+  background-color: black;
+}
+
+.app__body{
+    display:  flex;
+    justify-content: space-around;
+    /* margin-top : 25px; */
+    padding : 100px;
+}
+
+.app__body__left {
+  color : white;
+}
+
+.app__body__right {
+    color : white;
+    margin-left : 25px;
+}
+
+.app__body__left__head {
+    font-weight : bold;
+    font-size : 90px;
+}
+
+.app__body__left__para {
+    font-weight : bold;
+    font-size : 20px;
+}
+
+
+.app__body__right__head {
+    font-weight : bold;
+    font-size : 90px;
+}
+
+.app__body__right__para {
+    font-weight : bold;
+    font-size : 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    color : white;
+}

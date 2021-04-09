@@ -1,0 +1,25 @@
+.header {
+   display: flex;
+   align-items : center;
+   justify-content: space-between;
+   position : sticky;
+   top : 0;
+   z-index : 100;
+   padding : 20px;
+   background-color : #131921;
+   border : 1px solid lightgrey;
+}
+
+.header__left {
+   color : white;
+}
+
+
+.header__right {
+   color : white;
+}
+
+
+.header__mid {
+   color : white;
+}

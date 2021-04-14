@@ -1,0 +1,64 @@
+
+  .body {
+    background-color: black;
+  }
+  
+  .body__body{
+      display:  flex;
+      justify-content: space-around;
+      padding :100px;
+
+  }
+  
+  .body__body__left {
+    color : white;
+  }
+  
+  .body__body__right {
+      color : white;
+      margin-left : 25px;
+  }
+  
+  .body__body__left > h1 {
+      font-weight : bold;
+      font-size : 90px;
+  }
+  
+  .body__body__left > p {
+      font-weight : bold;
+      font-size : 20px;
+  }
+  
+  
+  .body__body__right > h1 {
+      font-weight : bold;
+      font-size : 90px;
+  }
+  
+  .body__body__right > p {
+      font-weight : bold;
+      font-size : 20px;
+  }
+  
+  .footer {
+      display: flex;
+      justify-content: center;
+      color : white;
+  }
+  
+  
+  .body__body__left__container {
+      margin-top : 20px; 
+      display:  flex; 
+  }
+  
+  
+  .body__body__left__container > input {
+     padding : 10px;
+     padding-right : 70px;
+     margin-right : 10px;
+  }
+  
+  .body__body__left__container > button {
+     padding : 10px; 
+  }
